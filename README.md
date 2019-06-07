@@ -1,6 +1,6 @@
 <h1> CODEBASE FOR WAX </h1>
 
--Only code (gml, and shader files) from the project are uploaded here, thus making it dead code that exists solely for evaluating purposes.
+-Only code (gml and shader files) from the project are uploaded here, thus making it dead code that exists solely for evaluating purposes.
  
 -None of the actual game assets will ever be uploaded here.
 
