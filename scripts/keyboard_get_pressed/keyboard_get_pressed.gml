@@ -1,0 +1,1 @@
+return keyboard_check_pressed(global.kMap[?argument0]);

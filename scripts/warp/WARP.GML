@@ -1,0 +1,12 @@
+if(argument0.roomWarp != room){
+	room_goto(argument0.roomWarp);
+	x = argument0.warpX;
+	y = argument0.warpY;
+	xstart = argument0.warpX;
+	ystart = argument0.warpY;
+}else{
+	x = argument0.warpX;
+	y = argument0.warpY;
+	xstart = argument0.warpX;
+	ystart = argument0.warpY;
+}

@@ -1,0 +1,6 @@
+/// @description particles
+// You can write your code in this editor
+part_flames_area(2,flameType,bbox_left,bbox_top,bbox_right,bbox_bottom);
+var col = global.palettes[|flameType];
+part_lights_tinted_area(obj_partManager.partLight16px,2,col[1],bbox_left,bbox_top,bbox_right,bbox_bottom);
+alarm_set(1,4);

@@ -1,0 +1,14 @@
+global.depthMap = ds_map_create();
+global.depthMap[?obj_solid] = 10;
+global.depthMap[?obj_score] = 90;
+global.depthMap[?obj_player] = 100;
+global.depthMap[?obj_enemy] = 110;
+global.depthMap[?obj_grabbable] = 120;
+global.depthMap[?obj_box] = 120;
+global.depthMap[?obj_interactable] = 130;
+global.depthMap[?obj_hang] = 190;
+global.depthMap[?obj_ns_door] = 195;
+global.depthMap[?obj_door] = 200;
+global.depthMap[?obj_swordBeam] = 100;
+global.depthMap[?obj_arcade] = 195;
+global.depthMap[?obj_altar] = 195;

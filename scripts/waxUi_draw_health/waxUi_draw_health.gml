@@ -1,0 +1,1 @@
+draw_sprite(HpPent,min(5-HP,5),15,-1);

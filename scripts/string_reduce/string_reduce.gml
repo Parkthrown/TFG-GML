@@ -1,0 +1,1 @@
+return string_copy(argument0,0,min(string_length(argument0),argument1)); 

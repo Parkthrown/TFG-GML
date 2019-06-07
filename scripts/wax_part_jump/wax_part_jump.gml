@@ -1,0 +1,1 @@
+part_particles_create(global.part_system_front,x,bbox_bottom,obj_partManager.partWaxLanding,1);

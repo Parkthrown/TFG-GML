@@ -1,0 +1,3 @@
+application_texture = surface_get_texture(application_surface);
+application_texel_width = texture_get_texel_width(application_texture);
+application_texel_height = texture_get_texel_height(application_texture);

@@ -1,0 +1,1 @@
+return keyboard_check(global.kMap[?argument0]);
